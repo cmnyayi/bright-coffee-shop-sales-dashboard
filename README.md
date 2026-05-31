@@ -40,10 +40,10 @@ This project presents an interactive sales dashboard for Bright Coffee Shop, dev
 
 # Dashboard Preview
 
-Data Studio
+# Data Studio
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0fd1a3d5-02cf-4128-a1e0-ef7cd0265679" />
 
-Power bi
+# Power bi
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c0d2e01a-57e6-4073-bf07-848b01e40c53" />
 
 
